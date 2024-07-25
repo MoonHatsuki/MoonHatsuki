@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MoonHatsuki
-- 👀 I’m interested in work with Python and C#
+- 👋 Hi, I’m Alice
+- 👀 I’m interested in work with Python, C# and Java.
 - 🌱 I’m currently learning languages and some programming 
 - 📫 How to reach me: talk about travels or teach me something, this will be fun!
 - 😄 Pronouns: She/her
